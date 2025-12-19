@@ -17,8 +17,12 @@ LLM-Assisted Stratification: Uses Qwen-3 to identify clinically self-reported "I
 
 Cross-Lingual Alignment: Fully aligned with the English Twitter-STMHD dataset for comparative research.
 
-## Visualization of Findings
-
+## Overview of MATCHA
+<p align="center">
+  <img src="figs/overview-supertopic_v.png" width="800">
+  <br>
+  <em>Figure 1: Overview of the MATCHA Dataset Collection and Annotation Pipeline.</em>
+</p>
 
 Symptom Distribution: Weibo shows stronger Anxious/Depressed Mood signals compared to Twitter.
 
