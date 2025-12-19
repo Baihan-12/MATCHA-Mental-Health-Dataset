@@ -1,0 +1,26 @@
+MATCHA Dataset & Code License
+
+Project: MATCHA: A Multi-Disease Chinese Mental Health Dataset with Cross-Lingual Analyses on Social Media Authors: Baihan Li, Bingrui Jin, Zitong Li, Kunyao Lan, Kenny Q. Zhu, and Mengyue Wu 
+
+
+1. Permitted Use
+This repository, including all code, annotation prompts, and sample data, is provided for Academic and Non-Commercial Research Purposes Only.
+
+2. Restrictions
+
+Non-Commercial: You may not use the material for commercial purposes without explicit permission from the authors.
+
+No Redistribution of Full Data: This repository contains only de-identified sample data. The full MATCHA dataset is distributed through a controlled-access system. Users are prohibited from attempting to re-identify any individuals in the dataset.
+
+
+
+Ethics Compliance: Users must adhere to the ethical standards described in the paper, ensuring that the data is handled with the utmost respect for user privacy and mental health sensitivity.
+
+3. Attribution
+If you use this code, the annotation prompts (e.g., the Qwen-3 screening logic), or findings from the MATCHA dataset in your research, you must cite the following paper:
+
+
+Li, B., Jin, B., Li, Z., Lan, K., Zhu, K. Q., & Wu, M. (2025). MATCHA: A Chinese Multi-Disease Mental Health Dataset with Cross-Lingual Analyses on Social Media. TechRxiv.
+
+4. Disclaimer
+The contents are provided "as is" without warranty of any kind. The authors are not responsible for any misuse of the research framework or data samples.
