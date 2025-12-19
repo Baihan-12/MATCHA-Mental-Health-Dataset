@@ -19,7 +19,7 @@ Cross-Lingual Alignment: Fully aligned with the English Twitter-STMHD dataset fo
 
 ## Overview of MATCHA
 <p align="center">
-  <img src="figs/overview-supertopic_v.pdf" width="800">
+  <img src="figs/overview-supertopic_v.png" width="800">
   <br>
   <em>Figure 1: Overview of the MATCHA Dataset Collection and Annotation Pipeline.</em>
 </p>
