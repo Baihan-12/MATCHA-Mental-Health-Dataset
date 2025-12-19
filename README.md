@@ -17,6 +17,19 @@ LLM-Assisted Stratification: Uses Qwen-3 to identify clinically self-reported "I
 
 Cross-Lingual Alignment: Fully aligned with the English Twitter-STMHD dataset for comparative research.
 
+## Get Access
+To ensure the ethical use of sensitive mental health data, MATCHA is available under a **controlled-access system** for academic and non-commercial research purposes.
+
+### Access Requirements
+* **Academic Identity**: Applicants must be affiliated with a university or a recognized research institution.
+* **Non-Commercial Commitment**: Users must agree to use the data exclusively for non-profit research.
+* **Privacy Compliance**: Users must commit to de-identification protocols and are strictly prohibited from attempting to re-identify any individuals.
+
+### How to Apply
+Access requests are managed via the **ModelScope** platform. Please fill out the application form (including your institution and research purpose) at the following link:
+
+👉 **[Apply for MATCHA on ModelScope](https://www.modelscope.cn/datasets/BaihanLi12/MATCHA_Multi-Disorder_mental_health_daTa_in_CHinA/)**
+
 ## Overview of MATCHA
 <p align="center">
   <img src="figs/overview-supertopic_v.png" width="800">
