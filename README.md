@@ -1,3 +1,5 @@
+
+
 # MATCHA-Mental-Health-Dataset
 MATCHA: A Multi-Disease Chinese Mental Health Dataset from Weibo with Cross-Lingual Analyses.
 
@@ -54,3 +56,7 @@ Symptom Distribution: Weibo shows stronger Anxious/Depressed Mood signals compar
 
 
 Life Events: Health-centered narratives dominate Weibo's disorder communities (+22.0% higher than Twitter).
+
+## Citation
+If you use this dataset in your research, please cite the source paper as specified in the DUA:
+> Li, B., et al. (2025). MATCHA: A Chinese Multi-Disorder Mental Health Dataset...
